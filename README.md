@@ -23,5 +23,5 @@ I build fast, mobile-first websites for **restaurants, spas, clinics & brands** 
 ---
 
 ### Work With Me
-* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me.)
+* 💬 **WhatsApp:** [+234 803 481 7841](https://wa.me.) *(Tap to chat)*
 * 📩 **Instagram:** *(Coming back soon — reach me directly on WhatsApp)*
