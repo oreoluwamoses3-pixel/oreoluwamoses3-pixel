@@ -23,4 +23,5 @@ I build fast, mobile-first websites for **restaurants, spas, clinics & brands** 
 ---
 
 ### Work With Me
-* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me2348034817841) 
+* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me.)
+* 📩 **Instagram:** *(Coming back soon — reach me directly on WhatsApp)*
