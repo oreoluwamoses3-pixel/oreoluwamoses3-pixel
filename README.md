@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hey, I'm R.O.B 👋
 
-<!--
-**oreoluwamoses3-pixel/oreoluwamoses3-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build fast, mobile-first websites for **restaurants, spas, clinics & brands** in Abuja—complete with 1-tap WhatsApp booking and ordering so your visitors turn into paying customers.
 
-Here are some ideas to get you started:
+**Live in 1–2 weeks | Starting from ₦31,500**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Sample Sites (Live Demos)
+* 🍽️ **Ember & Palm (Restaurant & Grill)** — menu tabs, venue highlights, instant WhatsApp reservations ([View Demo](https://demodemo01.vercel.app))
+* 💆 **Serein Spa & Wellness** — treatment menu, bundled packages, WhatsApp appointment form ([View Demo](https://demodemo02.vercel.app))
+* 🎷 **Aurelia House (Lounge & Events)** — dining menu, weekly event lineup, RSVP & private venue inquiries ([View Demo](https://demoshowcasewebsite.vercel.app))
+* 💞 **Queen Bee Matchmaking** — streamlined multi-step onboarding and signup flow demo ([View Demo](https://queenbeematchmaking.netlify.app))
+
+*(All samples are custom portfolio concepts built to demonstrate what your business website can look like.)*
+
+---
+
+### Other Services
+* 🐍 **Python Automation:** Custom scripts for task reminders, data handling, and workflow automation.
+* ✍️ **Copywriting & Proofreading:** Clear, persuasive website copy, menus, and brand messaging.
+
+---
+
+### Work With Me
+* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me2348034817841) 
