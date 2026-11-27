@@ -24,5 +24,5 @@ I design fast, mobile-ready web pages for Abuja businesses—including lounges, 
 
 ### Get in Touch
 * 🌐 **Portfolio:** [robbuilds.dpdns.org](https://robbuilds.dpdns.org)
-- 💬 **WhatsApp:** +234 803 481 7841 *(Tap to chat)*
+- 💬 **WhatsApp:** [+234 803 481 7841](https://whatsapp.com) *(Tap to chat)*
 - 📩 **Instagram:** *(Coming back soon — reach me directly on WhatsApp)*
