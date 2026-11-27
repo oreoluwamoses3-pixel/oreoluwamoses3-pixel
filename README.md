@@ -1,30 +1,27 @@
 ### Hey, I'm R.O.B 👋
+I design fast, mobile-ready web pages for Abuja businesses—including lounges, wellness centers, clinics, and shops—built with one-tap WhatsApp inquiry buttons to turn traffic into paying customers.
 
-I build fast, mobile-first websites for **restaurants, spas, clinics & brands** in Abuja—complete with 1-tap WhatsApp booking and ordering so your visitors turn into paying customers.
-
-**Live in 1–2 weeks | Starting from ₦31,500**
-* *My Portfolio*- (https://robbuilds.vercel.app),
-* (https://robbuilds.dpdns.org),
-* (www.robbuilds.dpdns.org)
----
-
-### Sample Sites (Live Demos)
-
-* 🍽️ **Ember & Palm (Restaurant & Grill)** — menu tabs, venue highlights, instant WhatsApp reservations ([View Demo](https://demodemo01.vercel.app))
-* 💆 **Serein Spa & Wellness** — treatment menu, bundled packages, WhatsApp appointment form ([View Demo](https://demodemo02.vercel.app))
-* 🎷 **Aurelia House (Lounge & Events)** — dining menu, weekly event lineup, RSVP & private venue inquiries ([View Demo](https://demoshowcasewebsite.vercel.app))
-* 💞 **Queen Bee Matchmaking** — streamlined multi-step onboarding and signup flow demo ([View Demo](https://queenbeematchmaking.netlify.app))
-
-*(All samples are custom portfolio concepts built to demonstrate what your business website can look like.)*
+**Delivery in 5–14 days | Projects start at ₦31,500** · [Visit Portfolio](https://dpdns.org)
 
 ---
 
-### Other Services
-* 🐍 **Python Automation:** Custom scripts for task reminders, data handling, and workflow automation.
-* ✍️ **Copywriting & Proofreading:** Clear, persuasive website copy, menus, and brand messaging.
+### Live Concept Demos
+* 🍽 **Ember & Palm** — Poolside dining concept with digital menu tabs and direct table booking ([Live Preview](https://vercel.app))
+* 💆 **Serein Spa** — Wellness showcase featuring treatment tiers and instant appointment requests ([Live Preview](https://vercel.app))
+* 🎷 **Aurelia House** — Upscale hospitality layout built for event schedules and private inquiries ([Live Preview](https://vercel.app))
+* 💞 **Queen Bee** — Smooth mobile onboarding flow with multi-step user registration ([Live Preview](https://netlify.app))
+* 🛍 **Sable & Stone** — Boutique catalog with size options and single-tap WhatsApp checkout ([Live Preview](https://vercel.app))
+
+*(All previews above are sample concepts built to demonstrate mobile speed and conversion layouts.)*
 
 ---
 
-### Work With Me
-* 💬 **WhatsApp:** [+234 803 481 7841](https://whatsapp.com) *(Tap to chat)*
-* 📩 **Instagram:** *(Coming back soon — reach me directly on WhatsApp)*
+### Additional Capabilities
+* 🐍 **Python Scripting:** Custom automation tools for organizing files, validating data, and eliminating repetitive tasks.
+* ✍ **Website Copy & Editing:** Clear, persuasive headlines and clean proofreading tailored for local brands.
+
+---
+
+### Get in Touch
+* 🌐 **Portfolio:** [robbuilds.dpdns.org](https://dpdns.org)
+* 💬 **WhatsApp:** [+234 803 481 7841](https://wa.me)
